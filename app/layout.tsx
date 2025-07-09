@@ -7,7 +7,7 @@ import "@stream-io/video-react-sdk/dist/css/styles.css";
 import "react-datepicker/dist/react-datepicker.css";
 import "./globals.css";
 import { Toaster } from "@/components/ui/toaster";
-import { dark, shadesOfPurple } from '@clerk/themes'
+import { dark } from '@clerk/themes'
 
 const inter = Inter({ subsets: ["latin"] });
 
